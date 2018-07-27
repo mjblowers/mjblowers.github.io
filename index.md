@@ -10,7 +10,7 @@ For now I'm keeping it simple as I work through the BSU courses and gradually th
 
 If you'd like to see some of the school projects I've worked on, shoot me an email and I can review them with you privately.  *I don't want to get in trouble! :)*
 
-CS-121 | CS-221 | CS-321
+CS-121 | CS-221
 ------------ | -------------
 TBD | TBD
 Email me | Email me
